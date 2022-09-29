@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GithubUserApp3</string>
+    <string name="search">Cari</string>
+    <string name="search_hint">Search</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="search_message">Find Username</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="followers_not_found">Followers Not Found</string>
+    <string name="following_not_found">Following Not Found</string>
+    <string name="action_failed">Action Failed</string>
+    <string name="setting_menu">Theme Setting</string>
+    <string name="favorite_menu">Favorite User</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>

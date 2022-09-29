@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rgb_71">#472D2D</color>
+    <color name="rgb_85">#553939</color>
+    <color name="rgb_112">#704F4F</color>
+    <color name="rgb_167">#A77979</color>
+    <color name="rgb_255">#FFF5E4</color>
+    <color name="rgb_196">#FFC4C4</color>
+    <color name="rgb_238">#EE6983</color>
+    <color name="rgb_133">#850E35</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
